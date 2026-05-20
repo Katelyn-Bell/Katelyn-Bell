@@ -2,7 +2,7 @@
 
 **CS @ UKY '27 | AI Researcher & Software Engineer**
 
-I am a Computer Science major at the University of Kentucky, actively focused on the intersection of Generative AI, natural language processing, and scalable software engineering. As an undergraduate research assistant under Dr. A.B. Siddique, I focus on fine-tuning LLMs and utilizing dimensionality reduction methods to optimize complex language data pipelines. 
+I am a Computer Science major at the University of Kentucky, actively focused on the intersection of Generative AI, natural language processing, and scalable software engineering. Alongside my academic research fine-tuning LLMs under Dr. A.B. Siddique, I have hands-on experience building enterprise-scale monitoring applications and interactive dashboards as a Software Engineer Intern at State Farm. 
 
 I am passionate about building secure, data-driven systems, from AI security gateways to cross-platform mobile applications.
 
@@ -23,12 +23,13 @@ I am passionate about building secure, data-driven systems, from AI security gat
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
-**AI & Machine Learning:**
-`Natural Language Processing (NLP)` | `Generative AI` | `Unsupervised Learning` | `PCA / t-SNE / UMAP`
-
----
 
 ### 🚀 Featured Projects
+
+#### 🔬 [multilingualResearch](https://github.com/katelyn-bell/multilingualResearch) *(Undergraduate NLP Research)*
+Research repository documenting my work on Generative AI architectures and natural language processing.
+* **Stack:** Python, Dimensionality Reduction (SVD, PCA, t-SNE, UMAP)
+* **Architecture:** Focuses on applying unsupervised learning to optimize complex language data processing and evaluating multilingual models to improve data pipeline efficiency. 
 
 #### 🛡️ [AgentSheriff](https://github.com/katelyn-bell/AgentSheriff) *(AI Agent Security Gateway)*
 A security gateway engineered for autonomous AI agents to intercept and evaluate LLM tool calls. 
